@@ -25,6 +25,8 @@
         />
       </div>
 
+      <v-spacer />
+
       <v-btn
         href="https://github.com/zumikiti/rand-cuury-rest"
         target="_blank"
